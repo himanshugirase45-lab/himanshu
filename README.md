@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Titans-rfp.Ai](
 https://titans-m-ax.vercel.app/google_login.html) 
-- 🌱 I’m currently exploring **Currently exploring advanced low-power optimization techniques for battery-operated IoT sensor nodes**
+- 🌱 I’m currently pursuing **engineering degree**
 
 - 📫 How to reach me **himanshugirase45@gmail.com**
 
